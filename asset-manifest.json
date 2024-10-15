@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YashBnsl/custom-chatbot/static/css/main.1f5fa23b.css",
+    "main.js": "/YashBnsl/custom-chatbot/static/js/main.e751f8dd.js",
+    "static/js/453.9c8709a5.chunk.js": "/YashBnsl/custom-chatbot/static/js/453.9c8709a5.chunk.js",
+    "index.html": "/YashBnsl/custom-chatbot/index.html",
+    "main.1f5fa23b.css.map": "/YashBnsl/custom-chatbot/static/css/main.1f5fa23b.css.map",
+    "main.e751f8dd.js.map": "/YashBnsl/custom-chatbot/static/js/main.e751f8dd.js.map",
+    "453.9c8709a5.chunk.js.map": "/YashBnsl/custom-chatbot/static/js/453.9c8709a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5fa23b.css",
+    "static/js/main.e751f8dd.js"
+  ]
+}
